@@ -18,12 +18,8 @@ The application uses the [Palette](https://developer.android.com/reference/andro
 
 ## Demo
 
-![Demo gif](https://raw.githubusercontent.com/jenuprasad/Swatch/master/art/demo.gif)
+![Demo gif](https://raw.githubusercontent.com/jenuprasad/Swatch/master/art/demo.gif =100x20)
 
 
 ## Links
 
-Here are a list of useful links:
-
- * We always welcome people to contribute new features or bug fixes, [here is how](https://github.com/novoda/novoda/blob/master/CONTRIBUTING.md)
- * For more info on how start working on this project, [see this wiki page](https://github.com/novoda/gradle-android-command-plugin/wiki/Development-&-Contributing)
