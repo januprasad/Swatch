@@ -18,7 +18,7 @@ The application uses the [Palette](https://developer.android.com/reference/andro
 
 ## Demo
 
-![Demo gif](https://raw.githubusercontent.com/novoda/materialpainter/master/art/demo.gif)
+![Demo gif](https://raw.githubusercontent.com/jenuprasad/Swatch/master/art/Swatch_Android_App_demo_video.gif)
 
 
 ## Links
